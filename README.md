@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nudelnmittoast
+- 👀 I’m interested in Gaming, Programing , Python , Java
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on a Hackclient for Minecraft
+- 📫 How to reach me on GitHub
