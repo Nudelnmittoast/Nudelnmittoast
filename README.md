@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Nudelnmittoast
-- 👀 I’m interested in Gaming, Programing , Python , Java
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on a Hackclient for Minecraft
-- 📫 How to reach me on GitHub
+- 👀 I’m interested in Gaming, Programing and Sports
+- 🦾 My Programming Languages are Python , Rust and  Go
+- 🌱 I’m currently learning Rust , Go
+- 💽 I'm currently working on a project with my RaspberryPi 
+    - 👾 Control Leds, API for controlling the leds,  maybe userinterface but idk...
