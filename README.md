@@ -2,5 +2,3 @@
 - 👀 I’m interested in Gaming, Programing and Sports
 - 🦾 My Programming Languages are Python , Rust and  Go
 - 🌱 I’m currently learning Rust , Go
-- 💽 I'm currently working on a project with my RaspberryPi 
-    - 👾 Control Leds, API for controlling the leds,  maybe userinterface but idk...
